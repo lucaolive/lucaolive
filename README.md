@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lucaolive
-- 👀 I’m interested in to be a front-end DEV
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently Angular Dev
 - 📫 How to reach me : lucas_aodp@hotmail.com
 
 <!---
